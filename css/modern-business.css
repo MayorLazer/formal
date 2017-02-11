@@ -27,6 +27,8 @@ body {
 
 header.carousel {
     height: 50%;
+    position: relative;
+    top: 20px;
 }
 
 header.carousel .item,
@@ -90,4 +92,9 @@ footer {
     header.carousel .carousel {
         height: 70%;
     }
+}
+.navbar{
+    height: 70px;
+    background-color: rgba(255,255,255,0.8);
+    color: black;
 }
