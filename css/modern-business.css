@@ -96,3 +96,23 @@ footer {
 .navbar{
      background-color: rgba(0,0,0,0.8);
 }
+.contact{
+   height: 100px;
+   margin-bottom: 3%;
+}
+.first{
+    background-color: #DEDEDE;
+    height: 100%;
+    text-align: center;
+    padding-top: 1.4%;
+}
+.second{
+    background-color: #4B4E53;
+    height: 100%;
+    text-align: center;
+    padding-top: 2%;
+}
+.botoncillo{
+    border: 1px solid black;
+    padding: 5% 5%;
+}
